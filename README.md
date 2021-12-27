@@ -5,9 +5,7 @@ Our project is an application to detect the type of acne on the skin. The many t
 
 ### Demo
 
-![20211227_144221](https://user-images.githubusercontent.com/44489539/147450740-82f528f3-179f-4216-9d2f-97260d1d219d.gif)
-
-
+<img src="https://github.com/FikranAkbar/Acne-Scan/blob/master/20211227_143949.gif"  height="440" />    <img src="https://github.com/FikranAkbar/Acne-Scan/blob/master/20211227_144221.gif"  height="440" />
 
 ### TEAM B21-CAP0398
 
