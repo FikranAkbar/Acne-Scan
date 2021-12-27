@@ -1,15 +1,9 @@
 <!-- ABOUT THE PROJECT -->
-## Preview
-
-![Acne Scan (1)](https://user-images.githubusercontent.com/44489539/147439698-3f11bb51-8814-4437-8275-0c9c10afaa48.jpeg) ![Acne Scan (2)](https://user-images.githubusercontent.com/44489539/147439700-4902fb93-20a2-4c86-8646-b3faf6a06d03.jpeg) ![Acne Scan (4)](https://user-images.githubusercontent.com/44489539/147439703-d14c665a-5aba-4a9c-a81b-08fa04f740fd.jpeg) ![Acne Scan (5)](https://user-images.githubusercontent.com/44489539/147439704-52154dd1-f058-467c-abba-e317dfa431be.jpeg)
-
-
-
-
-
 ## Acne Scan
 
 Our project is an application to detect the type of acne on the skin. The many types of acne make it difficult for us to determine the right type of acne. This will result in improper handling of acne, so that it does not subside or even gets worse. That way we want to help people identify the type of acne on their skin, so that they can provide the right treatment steps. To identify acne, users only need to take a photo of the part of the skin where there is acne. Then the application will give you the final result in the form of the type of acne and the right treatment steps.
+
+### Demo
 
 
 ### TEAM B21-CAP0398
