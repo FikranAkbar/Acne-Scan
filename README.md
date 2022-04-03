@@ -9,6 +9,10 @@ Repository For Acne Scan
 Our project is an application to detect the type of acne on the skin. The many types of acne make it difficult for us to determine the right type of acne. This will result in improper handling of acne, so that it does not subside or even gets worse. That way we want to help people identify the type of acne on their skin, so that they can provide the right treatment steps. To identify acne, users only need to take a photo of the part of the skin where there is acne. Then the application will give you the final result in the form of the type of acne and the right treatment steps.
 </p>
 
+<p align="center">
+<img src="./app/src/main/res/drawable/acne_scan_splashscreen.png" width="200">
+</p>
+
 ## Build With
 
 - [Android_Studio](https://developer.android.com/studio/)
