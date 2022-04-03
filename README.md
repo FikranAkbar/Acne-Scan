@@ -1,7 +1,25 @@
 <!-- ABOUT THE PROJECT -->
-## Acne Scan
+<h1 align="center">Acne Scan</h1></br>
 
+<h5 align="center">
+Repository For Acne Scan
+</h5>
+
+<p align="center">
 Our project is an application to detect the type of acne on the skin. The many types of acne make it difficult for us to determine the right type of acne. This will result in improper handling of acne, so that it does not subside or even gets worse. That way we want to help people identify the type of acne on their skin, so that they can provide the right treatment steps. To identify acne, users only need to take a photo of the part of the skin where there is acne. Then the application will give you the final result in the form of the type of acne and the right treatment steps.
+</p>
+
+## Build With
+
+- [Android_Studio](https://developer.android.com/studio/)
+- [Retrofit (API Integration)](https://square.github.io/retrofit/)
+- [Fragment](https://developer.android.com/guide/fragments)
+- [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)
+- [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
+- [Facebook Shimmer loading](https://github.com/facebook/shimmer-android)
+- [Live Data](https://developer.android.com/topic/libraries/architecture/livedata)
+- [Firebase](https://firebase.google.com/)
+- [TensorFlow Lite](https://www.tensorflow.org/lite/)
 
 ### Demo
 
